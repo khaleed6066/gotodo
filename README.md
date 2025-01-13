@@ -1,3 +1,5 @@
-Installation Guid
-Git pull origin master
-go run main.go
+**Installation Guide**
+
+``Git pull origin master``
+
+``go run main.go``
